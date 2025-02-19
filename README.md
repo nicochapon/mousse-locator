@@ -3,10 +3,9 @@
 **Mousse Locator** is a simple and efficient application that allows users to track the current **X** and **Y** coordinates of their cursor in real time. It provides an intuitive way to monitor cursor movement on the screen, which can be particularly useful for developers, designers, and anyone needing precise cursor tracking.
 
 ## Features:
-- Real-time display of **X** and **Y** coordinates as the cursor moves.
-- Lightweight and user-friendly interface.
-- Accurate and immediate feedback of cursor location on the screen.
-
+- Real-time display of **X** and **Y** coordinates of the cursor in the terminal.
+- Simple and efficient implementation with no graphical interface.
+- Lightweight and easy to use, with minimal system resources required.
 ## How to Use:
 1. **Install Python**: Make sure Python is installed on your system.
 2. Open the command prompt (or terminal) and run the following command to install **PyAutoGUI**:
