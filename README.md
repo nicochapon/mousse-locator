@@ -8,6 +8,10 @@
 - Accurate and immediate feedback of cursor location on the screen.
 
 ## How to Use:
-1. Download and run the application.
-2. Move your cursor across the screen.
-3. The **X** and **Y** coordinates will be displayed in the application window, updating as the cursor moves.
+1. **Install Python**: Make sure Python is installed on your system.
+2. Open the command prompt (or terminal) and run the following command to install **PyAutoGUI**:
+   ```bash
+   pip install pyautogui
+3. Download and run the application.
+4. Move your cursor across the screen.
+5. The **X** and **Y** coordinates will be displayed in the application window, updating as the cursor moves.
